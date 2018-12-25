@@ -1,5 +1,7 @@
 # Docker Calculator
 
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/gotonode_marketplace/gotonode%2Fcalc%2Fcalc?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWMyMTM5NzM3NWVhMDExZjkxNjZhMzk3.injO-ZcBuCv9g009YPl22PkE7gSPEgXvi5zkL1P2JGw&type=cf-1)]( https://g.codefresh.io/pipelines/calc/builds?repoOwner=gotonode&repoName=calc&serviceName=gotonode%2Fcalc&filter=trigger:build~Build;branch:master;pipeline:5c2250a675a47582ef87b73c~calc)
+
 This is an extremely simple **Docker** "app" that asks for two integers and prints their sum to the console.
 
 Dockerfile contents (click [here](https://github.com/gotonode/calc/blob/master/Dockerfile) to view the file):
