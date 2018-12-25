@@ -1,6 +1,6 @@
 # Docker Calculator
 
-This is an extremely simple Docker "app" that asks for two integers and prints their sum to the console.
+This is an extremely simple **Docker** "app" that asks for two *integers* and prints their sum to the console.
 
 Dockerfile contents:
 ```
