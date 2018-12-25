@@ -2,7 +2,7 @@
 
 This is an extremely simple **Docker** "app" that asks for two integers and prints their sum to the console.
 
-Dockerfile contents:
+Dockerfile contents (click [here](https://github.com/gotonode/calc/blob/master/Dockerfile) to view the file):
 ```
 FROM ubuntu:16.04
 
