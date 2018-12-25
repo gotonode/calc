@@ -23,7 +23,7 @@ Run this command: `docker run -it calc`
 
 This will create a Docker container from the image called `calc`.
 
-Optionally pass the `--rm` argument to immediately remove the container one the calculation has been done.
+Optionally pass the `--rm` argument to immediately remove the container once the calculation has been done.
 
 ## Sample program flow
 
@@ -34,3 +34,5 @@ First integer: 128
 Second integer: 128
 Their sum is: 256
 ```
+
+You'll pass the two integers yourself as input and get their sum as output from the app.
